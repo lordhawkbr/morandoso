@@ -1,0 +1,16 @@
+html,
+body {
+  cursor: default;
+}
+
+.buttons a {
+  display: inline-flex;
+  align-items: center;
+}
+.buttons .btn-launch i {
+  margin-left: 10px;
+}
+.buttons .btn-launch {
+  border: solid #fff;
+  color: #fff;
+}
